@@ -43,7 +43,7 @@ class ScaffoldWidget extends StatelessWidget {
               const DrawerHeader(
                 decoration: BoxDecoration(
                   image: DecorationImage(
-                    image: AssetImage('assets/images/bg2.png'),
+                    image: AssetImage('assets/images/bg4.jpg'),
                     fit: BoxFit.cover,
                   ),
                   color: Colors.blue,
